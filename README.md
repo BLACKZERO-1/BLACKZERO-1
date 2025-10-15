@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [BLACKZERO-1]!
+### Hi there 👋, I'm BLACKZERO-1!
 
 ## 🔭 About Me
 
