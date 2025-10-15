@@ -8,3 +8,19 @@ I am a Master's student in Molecular Biotechnology with a deep passion for the i
 - 💻 Building projects that bridge the gap between wet-lab biology and computational analysis.
 - 🐍 Actively learning and applying Python and AI for bioinformatics applications.
 - 🚀 Aspiring to a future career as a Bioinformatics Researcher or Research Scientist.
+
+## 🛠️ My Skills
+
+### Bioinformatics & Data Science
+- **Programming Language:** Python
+- **Key Libraries:** Pandas, NumPy, BioPython, Matplotlib, Scikit-learn
+- **Tools:** NCBI Database Suite, MEGA for Phylogenetic Analysis
+
+### Biological Techniques (Wet Lab)
+- Polymerase Chain Reaction (PCR)
+- DNA Extraction & Purification
+- Gel Electrophoresis
+
+### Developer Tools
+- Git & GitHub
+- Jupyter Notebooks
